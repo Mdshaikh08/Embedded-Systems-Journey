@@ -1,0 +1,10 @@
+../component/phy/fsl_phyyt8521.c:77:10:PHY_YT8521_Init	32	static
+../component/phy/fsl_phyyt8521.c:177:10:PHY_YT8521_Write	16	static
+../component/phy/fsl_phyyt8521.c:182:10:PHY_YT8521_Read	24	static
+../component/phy/fsl_phyyt8521.c:187:10:PHY_YT8521_GetAutoNegotiationStatus	24	static
+../component/phy/fsl_phyyt8521.c:208:10:PHY_YT8521_GetLinkStatus	24	static
+../component/phy/fsl_phyyt8521.c:233:10:PHY_YT8521_GetLinkSpeedDuplex	32	static
+../component/phy/fsl_phyyt8521.c:278:10:PHY_YT8521_SetLinkSpeedDuplex	24	static
+../component/phy/fsl_phyyt8521.c:316:10:PHY_YT8521_EnableLoopback	24	static
+../component/phy/fsl_phyyt8521.c:354:10:PHY_YT8521_EnableLinkInterrupt	24	static
+../component/phy/fsl_phyyt8521.c:386:10:PHY_YT8521_ClearInterrupt	24	static

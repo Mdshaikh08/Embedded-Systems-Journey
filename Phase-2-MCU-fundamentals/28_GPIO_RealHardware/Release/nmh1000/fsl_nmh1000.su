@@ -1,0 +1,4 @@
+../nmh1000/fsl_nmh1000.c:13:10:NMH_ReadReg	16	static
+../nmh1000/fsl_nmh1000.c:28:10:NMH_WriteReg	4	static
+../nmh1000/fsl_nmh1000.c:42:10:NMH_Init	8	static
+../nmh1000/fsl_nmh1000.c:68:10:NMH_ReadMagData	16	static

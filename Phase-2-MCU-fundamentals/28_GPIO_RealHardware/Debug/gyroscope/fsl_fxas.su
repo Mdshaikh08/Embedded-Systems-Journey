@@ -1,0 +1,5 @@
+../gyroscope/fsl_fxas.c:19:10:FXAS_Init	24	static
+../gyroscope/fsl_fxas.c:124:10:FXAS_ReadSensorData	32	static
+../gyroscope/fsl_fxas.c:143:10:FXAS_ReadReg	40	static
+../gyroscope/fsl_fxas.c:156:10:FXAS_WriteReg	24	static
+../gyroscope/fsl_fxas.c:168:7:FXAS_FormatFloat	16	static

@@ -1,0 +1,14 @@
+../component/phy/fsl_phyjl1111.c:209:10:PHY_JL1111_Write	0	static
+../component/phy/fsl_phyjl1111.c:214:10:PHY_JL1111_Read	0	static
+../component/phy/fsl_phyjl1111.c:229:10:PHY_JL1111_GetAutoNegotiationStatus	16	static
+../component/phy/fsl_phyjl1111.c:249:10:PHY_JL1111_GetLinkStatus	24	static
+../component/phy/fsl_phyjl1111.c:295:10:PHY_JL1111_SetLinkSpeedDuplex	24	static
+../component/phy/fsl_phyjl1111.c:465:10:PHY_JL1111_ClearInterrupt	16	static
+../component/phy/fsl_phyjl1111.c:271:10:PHY_JL1111_GetLinkSpeedDuplex	24	static
+../component/phy/fsl_phyjl1111.c:665:17:PHY_JL1111_SelectPage	0	static
+../component/phy/fsl_phyjl1111.c:328:10:PHY_JL1111_EnableLoopback	24	static
+../component/phy/fsl_phyjl1111.c:412:10:PHY_JL1111_EnableLinkInterrupt	24	static
+../component/phy/fsl_phyjl1111.c:92:10:PHY_JL1111_Init	24	static
+../component/phy/fsl_phyjl1111.c:605:17:PHY_JL1111_MMD_SetDevice.constprop	16	static
+../component/phy/fsl_phyjl1111.c:219:10:PHY_JL1111_WriteC45	16	static
+../component/phy/fsl_phyjl1111.c:224:10:PHY_JL1111_ReadC45	16	static

@@ -1,0 +1,17 @@
+../component/phy/fsl_phytja1104.c:192:17:PHY_TJA1104_VerifyPhyId	40	static
+../component/phy/fsl_phytja1104.c:221:17:PHY_TJA1104_EnableConfigRegisters	40	static
+../component/phy/fsl_phytja1104.c:249:17:PHY_TJA1104_StartPhyOperation	40	static
+../component/phy/fsl_phytja1104.c:268:17:PHY_TJA1104_GoToStandby	40	static
+../component/phy/fsl_phytja1104.c:293:17:PHY_TJA1104_GetPhaseShift	24	static
+../component/phy/fsl_phytja1104.c:305:10:PHY_TJA1104_SetDelays	40	static
+../component/phy/fsl_phytja1104.c:323:10:PHY_TJA1104_DisableDelays	48	static
+../component/phy/fsl_phytja1104.c:340:10:PHY_TJA1104_Init	64	static
+../component/phy/fsl_phytja1104.c:384:10:PHY_TJA1104_Write	32	static
+../component/phy/fsl_phytja1104.c:389:10:PHY_TJA1104_Read	32	static
+../component/phy/fsl_phytja1104.c:394:10:PHY_TJA1104_GetAutoNegotiationStatus	16	static
+../component/phy/fsl_phytja1104.c:401:10:PHY_TJA1104_GetLinkStatus	40	static
+../component/phy/fsl_phytja1104.c:441:10:PHY_TJA1104_GetLinkSpeedDuplex	24	static
+../component/phy/fsl_phytja1104.c:464:10:PHY_TJA1104_SetLinkSpeedDuplex	16	static
+../component/phy/fsl_phytja1104.c:475:10:PHY_TJA1104_EnableLoopback	104	static
+../component/phy/fsl_phytja1104.c:572:10:PHY_TJA1104_EnableInterrupt	40	static
+../component/phy/fsl_phytja1104.c:599:10:PHY_TJA1104_ClearInterrupt	40	static

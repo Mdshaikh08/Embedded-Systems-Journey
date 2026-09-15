@@ -1,0 +1,10 @@
+../component/phy/fsl_phytja1100.c:196:10:PHY_TJA1100_Write	0	static
+../component/phy/fsl_phytja1100.c:201:10:PHY_TJA1100_Read	0	static
+../component/phy/fsl_phytja1100.c:206:10:PHY_TJA1100_GetAutoNegotiationStatus	0	static
+../component/phy/fsl_phytja1100.c:224:10:PHY_TJA1100_GetLinkStatus	16	static
+../component/phy/fsl_phytja1100.c:254:10:PHY_TJA1100_GetLinkSpeedDuplex	0	static
+../component/phy/fsl_phytja1100.c:278:10:PHY_TJA1100_SetLinkSpeedDuplex	0	static
+../component/phy/fsl_phytja1100.c:293:10:PHY_TJA1100_EnableLoopback	24	static
+../component/phy/fsl_phytja1100.c:344:10:PHY_TJA1100_EnableLinkInterrupt	24	static
+../component/phy/fsl_phytja1100.c:375:10:PHY_TJA1100_ClearInterrupt	16	static
+../component/phy/fsl_phytja1100.c:84:10:PHY_TJA1100_Init	24	static

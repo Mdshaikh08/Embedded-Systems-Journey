@@ -1,0 +1,10 @@
+../component/phy/fsl_phyar8031.c:290:10:PHY_AR8031_Write	0	static
+../component/phy/fsl_phyar8031.c:295:10:PHY_AR8031_Read	0	static
+../component/phy/fsl_phyar8031.c:300:10:PHY_AR8031_GetAutoNegotiationStatus	16	static
+../component/phy/fsl_phyar8031.c:321:10:PHY_AR8031_GetLinkStatus	16	static
+../component/phy/fsl_phyar8031.c:346:10:PHY_AR8031_GetLinkSpeedDuplex	24	static
+../component/phy/fsl_phyar8031.c:392:10:PHY_AR8031_SetLinkSpeedDuplex	24	static
+../component/phy/fsl_phyar8031.c:533:17:PHY_AR8031_MMD_SetDevice.constprop	16	static
+../component/phy/fsl_phyar8031.c:580:17:PHY_AR8031_MMD_Write	16	static
+../component/phy/fsl_phyar8031.c:430:10:PHY_AR8031_EnableLoopback	24	static
+../component/phy/fsl_phyar8031.c:106:10:PHY_AR8031_Init	24	static

@@ -1,0 +1,17 @@
+../component/phy/fsl_phygpy215.c:122:13:PHY_GPY215_AccessDelay	16	static
+../component/phy/fsl_phygpy215.c:132:10:PHY_GPY215_Write	24	static
+../component/phy/fsl_phygpy215.c:141:10:PHY_GPY215_Read	32	static
+../component/phy/fsl_phygpy215.c:150:10:PHY_GPY215_WriteC45	40	static
+../component/phy/fsl_phygpy215.c:159:10:PHY_GPY215_ReadC45	40	static
+../component/phy/fsl_phygpy215.c:168:10:PHY_GPY215_Init	32	static
+../component/phy/fsl_phygpy215.c:302:10:PHY_GPY215_GetAutoNegotiationStatus	24	static
+../component/phy/fsl_phygpy215.c:328:10:PHY_GPY215_GetLinkStatus	24	static
+../component/phy/fsl_phygpy215.c:358:10:PHY_GPY215_GetLinkSpeedDuplex	32	static
+../component/phy/fsl_phygpy215.c:413:10:PHY_GPY215_SetLinkSpeedDuplex	24	static
+../component/phy/fsl_phygpy215.c:457:10:PHY_GPY215_EnableLoopback	24	static
+../component/phy/fsl_phygpy215.c:501:10:PHY_GPY215_EnableLinkInterrupt	24	static
+../component/phy/fsl_phygpy215.c:534:10:PHY_GPY215_ClearInterrupt	24	static
+../component/phy/fsl_phygpy215.c:541:17:PHY_GPY215_SetLinkSpeed	24	static
+../component/phy/fsl_phygpy215.c:605:17:PHY_GPY215_MMD_SetDevice	32	static
+../component/phy/fsl_phygpy215.c:630:17:PHY_GPY215_MMD_Read	32	static
+../component/phy/fsl_phygpy215.c:650:17:PHY_GPY215_MMD_Write	32	static

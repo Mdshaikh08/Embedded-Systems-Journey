@@ -1,0 +1,7 @@
+C:\Users\Pc\Desktop\Embedded_Systems_Journey\Phase-2-MCU-fundamentals\28_GPIO_RealHardware\drivers/fsl_clock.h:1235:20:CLOCK_EnableClock	24	static
+../source/28_GPIO_RealHardware.c:39:5:main	56	static
+../source/28_GPIO_RealHardware.c:78:6:gpio_real_init	24	static
+../source/28_GPIO_RealHardware.c:92:6:gpio_real_set	16	static
+../source/28_GPIO_RealHardware.c:99:6:gpio_real_clear	16	static
+../source/28_GPIO_RealHardware.c:105:5:gpio_real_read	16	static
+../source/28_GPIO_RealHardware.c:113:6:gpio_real_toggle	16	static

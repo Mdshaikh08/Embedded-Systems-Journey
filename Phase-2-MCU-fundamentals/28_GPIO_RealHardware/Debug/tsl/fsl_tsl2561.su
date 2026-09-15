@@ -1,0 +1,9 @@
+../tsl/fsl_tsl2561.c:32:14:TSL_EnableSensor	16	static
+../tsl/fsl_tsl2561.c:47:14:TSL_DisableSensor	16	static
+../tsl/fsl_tsl2561.c:65:14:TSL_Init	24	static
+../tsl/fsl_tsl2561.c:86:17:TSL_ReadReg	40	static
+../tsl/fsl_tsl2561.c:99:17:TSL_WriteReg	24	static
+../tsl/fsl_tsl2561.c:116:14:TSL_SetGainAndTiming	16	static
+../tsl/fsl_tsl2561.c:135:14:TSL_ReadRawData	32	static
+../tsl/fsl_tsl2561.c:180:14:TSL_CalculateLux	48	static
+../tsl/fsl_tsl2561.c:299:14:TSL_GetAmbiLuxValue	24	static
