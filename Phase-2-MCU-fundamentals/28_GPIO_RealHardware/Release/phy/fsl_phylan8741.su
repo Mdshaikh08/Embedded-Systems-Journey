@@ -1,8 +1,0 @@
-../phy/fsl_phylan8741.c:174:10:PHY_LAN8741_Write	0	static
-../phy/fsl_phylan8741.c:179:10:PHY_LAN8741_Read	0	static
-../phy/fsl_phylan8741.c:184:10:PHY_LAN8741_GetAutoNegotiationStatus	16	static
-../phy/fsl_phylan8741.c:205:10:PHY_LAN8741_GetLinkStatus	16	static
-../phy/fsl_phylan8741.c:230:10:PHY_LAN8741_GetLinkSpeedDuplex	24	static
-../phy/fsl_phylan8741.c:268:10:PHY_LAN8741_SetLinkSpeedDuplex	24	static
-../phy/fsl_phylan8741.c:67:10:PHY_LAN8741_Init	32	static
-../phy/fsl_phylan8741.c:302:10:PHY_LAN8741_EnableLoopback	24	static

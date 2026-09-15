@@ -1,4 +1,0 @@
-../accel/fsl_mma.c:131:10:MMA_ReadReg	16	static
-../accel/fsl_mma.c:82:10:MMA_ReadSensorData	24	static
-../accel/fsl_mma.c:144:10:MMA_WriteReg	4	static
-../accel/fsl_mma.c:13:10:MMA_Init	16	static

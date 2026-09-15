@@ -1,9 +1,0 @@
-../source/mx25r_flash.c:15:13:mx25r_init	0	static
-../source/mx25r_flash.c:23:13:mx25r_cmd_rdid	32	static
-../source/mx25r_flash.c:32:13:mx25r_cmd_read	32	static
-../source/mx25r_flash.c:48:13:mx25r_cmd_nop	16	static
-../source/mx25r_flash.c:55:13:mx25r_cmd_rdsr	32	static
-../source/mx25r_flash.c:64:13:mx25r_cmd_wrdi	16	static
-../source/mx25r_flash.c:72:13:mx25r_cmd_wren	16	static
-../source/mx25r_flash.c:80:13:mx25r_cmd_write	40	static
-../source/mx25r_flash.c:120:13:mx25r_cmd_sector_erase	32	static

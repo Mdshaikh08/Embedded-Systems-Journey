@@ -1,8 +1,0 @@
-../component/phy/fsl_phylan8720a.c:159:10:PHY_LAN8720A_Write	0	static
-../component/phy/fsl_phylan8720a.c:164:10:PHY_LAN8720A_Read	0	static
-../component/phy/fsl_phylan8720a.c:169:10:PHY_LAN8720A_GetAutoNegotiationStatus	16	static
-../component/phy/fsl_phylan8720a.c:190:10:PHY_LAN8720A_GetLinkStatus	16	static
-../component/phy/fsl_phylan8720a.c:215:10:PHY_LAN8720A_GetLinkSpeedDuplex	24	static
-../component/phy/fsl_phylan8720a.c:253:10:PHY_LAN8720A_SetLinkSpeedDuplex	24	static
-../component/phy/fsl_phylan8720a.c:65:10:PHY_LAN8720A_Init	24	static
-../component/phy/fsl_phylan8720a.c:287:10:PHY_LAN8720A_EnableLoopback	24	static

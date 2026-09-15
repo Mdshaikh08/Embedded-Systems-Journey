@@ -1,8 +1,0 @@
-../component/phy/fsl_phyvsc8541.c:76:10:PHY_VSC8541_Init	32	static
-../component/phy/fsl_phyvsc8541.c:184:10:PHY_VSC8541_Write	16	static
-../component/phy/fsl_phyvsc8541.c:189:10:PHY_VSC8541_Read	24	static
-../component/phy/fsl_phyvsc8541.c:194:10:PHY_VSC8541_GetAutoNegotiationStatus	24	static
-../component/phy/fsl_phyvsc8541.c:215:10:PHY_VSC8541_GetLinkStatus	24	static
-../component/phy/fsl_phyvsc8541.c:240:10:PHY_VSC8541_GetLinkSpeedDuplex	32	static
-../component/phy/fsl_phyvsc8541.c:285:10:PHY_VSC8541_SetLinkSpeedDuplex	24	static
-../component/phy/fsl_phyvsc8541.c:323:10:PHY_VSC8541_EnableLoopback	24	static

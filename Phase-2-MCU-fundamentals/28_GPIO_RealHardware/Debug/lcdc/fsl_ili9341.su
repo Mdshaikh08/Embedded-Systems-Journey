@@ -1,2 +1,0 @@
-../lcdc/fsl_ili9341.c:10:6:FT9341_Init	16	static
-../lcdc/fsl_ili9341.c:111:6:FT9341_Init1	136	static

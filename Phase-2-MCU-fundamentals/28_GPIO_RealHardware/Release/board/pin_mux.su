@@ -1,5 +1,0 @@
-../board/pin_mux.c:63:6:BOARD_InitDEBUG_UARTPins	0	static
-../board/pin_mux.c:37:6:BOARD_InitBootPins	0	static
-../board/pin_mux.c:137:6:BOARD_InitSWD_DEBUGPins	0	static
-../board/pin_mux.c:234:6:BOARD_InitLEDsPins	0	static
-../board/pin_mux.c:329:6:BOARD_InitBUTTONsPins	0	static

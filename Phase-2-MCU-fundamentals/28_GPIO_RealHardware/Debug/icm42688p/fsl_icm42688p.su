@@ -1,6 +1,0 @@
-../icm42688p/fsl_icm42688p.c:20:10:ICM42688P_WriteReg	40	static
-../icm42688p/fsl_icm42688p.c:28:10:ICM42688P_ReadReg	40	static
-../icm42688p/fsl_icm42688p.c:36:10:ICM42688P_Init	24	static
-../icm42688p/fsl_icm42688p.c:70:10:ICM42688P_EnableSensors	24	static
-../icm42688p/fsl_icm42688p.c:100:10:ICM42688P_ConfigureTapDetectIBI	24	static
-../icm42688p/fsl_icm42688p.c:122:10:ICM42688P_ReadSensorData	40	static

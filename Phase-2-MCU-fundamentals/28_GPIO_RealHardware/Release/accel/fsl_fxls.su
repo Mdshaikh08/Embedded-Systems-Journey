@@ -1,5 +1,0 @@
-../accel/fsl_fxls.c:125:10:FXLS_ReadReg	16	static
-../accel/fsl_fxls.c:93:10:FXLS_ReadAccelRawData	8	static
-../accel/fsl_fxls.c:105:10:FXLS_ReadAccelData	16	static
-../accel/fsl_fxls.c:140:10:FXLS_WriteReg	4	static
-../accel/fsl_fxls.c:12:10:FXLS_Init	16	static

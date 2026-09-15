@@ -1,8 +1,0 @@
-../component/phy/fsl_phyaqr113c.c:144:10:PHY_AQR113C_Init	40	static
-../component/phy/fsl_phyaqr113c.c:268:10:PHY_AQR113C_Write	32	static
-../component/phy/fsl_phyaqr113c.c:273:10:PHY_AQR113C_Read	32	static
-../component/phy/fsl_phyaqr113c.c:278:10:PHY_AQR113C_GetAutoNegotiationStatus	32	static
-../component/phy/fsl_phyaqr113c.c:300:10:PHY_AQR113C_GetLinkStatus	32	static
-../component/phy/fsl_phyaqr113c.c:361:10:PHY_AQR113C_GetLinkSpeedDuplex	40	static
-../component/phy/fsl_phyaqr113c.c:415:10:PHY_AQR113C_SetLinkSpeedDuplex	32	static
-../component/phy/fsl_phyaqr113c.c:501:10:PHY_AQR113C_EnableLoopback	32	static
