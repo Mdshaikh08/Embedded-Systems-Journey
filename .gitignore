@@ -24,3 +24,6 @@ Debug/
 Release/
 .settings/
 *.launch
+source/mx25r_flash.c
+source/mx25r_flash.h
+source/semihost_hardfault.c
