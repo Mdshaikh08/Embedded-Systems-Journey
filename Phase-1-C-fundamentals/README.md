@@ -1,6 +1,6 @@
 # Bare-Metal C & Low-Level System Fundamentals
 
-This repository contains my implementation of core Embedded C concepts, focusing on memory efficiency, raw bit manipulation, and software-to-hardware mapping.
+This Phase-1 folder contains my implementation of core Embedded C concepts, focusing on memory efficiency, raw bit manipulation, and software-to-hardware mapping.
 
 ## Key Concepts Implemented
 - **Bit Manipulation:** Custom macros for setting, clearing, and toggling specific register bits.
